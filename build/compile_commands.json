@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/celil/my_workspace/glfw_test/build",
+  "command": "/usr/bin/g++   -I/home/celil/my_workspace/glfw_test/include  -g   -o CMakeFiles/opengl_test.dir/src/main.cpp.o -c /home/celil/my_workspace/glfw_test/src/main.cpp",
+  "file": "/home/celil/my_workspace/glfw_test/src/main.cpp"
+},
+{
+  "directory": "/home/celil/my_workspace/glfw_test/build",
+  "command": "/usr/bin/gcc  -I/home/celil/my_workspace/glfw_test/include  -g   -o CMakeFiles/opengl_test.dir/src/glad.c.o   -c /home/celil/my_workspace/glfw_test/src/glad.c",
+  "file": "/home/celil/my_workspace/glfw_test/src/glad.c"
+},
+{
+  "directory": "/home/celil/my_workspace/glfw_test/build",
+  "command": "/usr/bin/g++   -I/home/celil/my_workspace/glfw_test/include  -g   -o CMakeFiles/opengl_test.dir/src/displayer.cpp.o -c /home/celil/my_workspace/glfw_test/src/displayer.cpp",
+  "file": "/home/celil/my_workspace/glfw_test/src/displayer.cpp"
+},
+{
+  "directory": "/home/celil/my_workspace/glfw_test/build",
+  "command": "/usr/bin/g++   -I/home/celil/my_workspace/glfw_test/include  -g   -o CMakeFiles/opengl_test.dir/src/point_producer.cpp.o -c /home/celil/my_workspace/glfw_test/src/point_producer.cpp",
+  "file": "/home/celil/my_workspace/glfw_test/src/point_producer.cpp"
+},
+{
+  "directory": "/home/celil/my_workspace/glfw_test/build",
+  "command": "/usr/bin/g++   -I/home/celil/my_workspace/glfw_test/include  -g   -o CMakeFiles/opengl_test.dir/src/event.cpp.o -c /home/celil/my_workspace/glfw_test/src/event.cpp",
+  "file": "/home/celil/my_workspace/glfw_test/src/event.cpp"
+},
+{
+  "directory": "/home/celil/my_workspace/glfw_test/build",
+  "command": "/usr/bin/g++   -I/home/celil/my_workspace/glfw_test/include  -g   -o CMakeFiles/opengl_test.dir/src/voronoi_diagram.cpp.o -c /home/celil/my_workspace/glfw_test/src/voronoi_diagram.cpp",
+  "file": "/home/celil/my_workspace/glfw_test/src/voronoi_diagram.cpp"
+},
+{
+  "directory": "/home/celil/my_workspace/glfw_test/build",
+  "command": "/usr/bin/g++   -I/home/celil/my_workspace/glfw_test/include  -g   -o CMakeFiles/opengl_test.dir/src/fortune_algorithm.cpp.o -c /home/celil/my_workspace/glfw_test/src/fortune_algorithm.cpp",
+  "file": "/home/celil/my_workspace/glfw_test/src/fortune_algorithm.cpp"
+}
+]
