@@ -66,21 +66,21 @@ vector
 list
 -
 
-/home/celil/my_workspace/glfw_test/src/displayer.cpp
+/home/celil/my_workspace/voronoi_glfw/src/displayer.cpp
 displayer.h
-/home/celil/my_workspace/glfw_test/src/displayer.h
+/home/celil/my_workspace/voronoi_glfw/src/displayer.h
 
-/home/celil/my_workspace/glfw_test/src/event.cpp
+/home/celil/my_workspace/voronoi_glfw/src/event.cpp
 event.h
-/home/celil/my_workspace/glfw_test/src/event.h
+/home/celil/my_workspace/voronoi_glfw/src/event.h
 
-/home/celil/my_workspace/glfw_test/src/fortune_algorithm.cpp
+/home/celil/my_workspace/voronoi_glfw/src/fortune_algorithm.cpp
 fortune_algorithm.h
-/home/celil/my_workspace/glfw_test/src/fortune_algorithm.h
+/home/celil/my_workspace/voronoi_glfw/src/fortune_algorithm.h
 
-/home/celil/my_workspace/glfw_test/src/main.cpp
+/home/celil/my_workspace/voronoi_glfw/src/main.cpp
 displayer.h
-/home/celil/my_workspace/glfw_test/src/displayer.h
+/home/celil/my_workspace/voronoi_glfw/src/displayer.h
 iostream
 -
 vector
@@ -92,15 +92,15 @@ algorithm
 boost/polygon/voronoi.hpp
 -
 voronoi_diagram.h
-/home/celil/my_workspace/glfw_test/src/voronoi_diagram.h
+/home/celil/my_workspace/voronoi_glfw/src/voronoi_diagram.h
 
-/home/celil/my_workspace/glfw_test/src/point_producer.cpp
+/home/celil/my_workspace/voronoi_glfw/src/point_producer.cpp
 point_producer.h
-/home/celil/my_workspace/glfw_test/src/point_producer.h
+/home/celil/my_workspace/voronoi_glfw/src/point_producer.h
 
-/home/celil/my_workspace/glfw_test/src/voronoi_diagram.cpp
+/home/celil/my_workspace/voronoi_glfw/src/voronoi_diagram.cpp
 voronoi_diagram.h
-/home/celil/my_workspace/glfw_test/src/voronoi_diagram.h
+/home/celil/my_workspace/voronoi_glfw/src/voronoi_diagram.h
 unordered_set
 -
 

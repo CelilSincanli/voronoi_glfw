@@ -10,7 +10,7 @@
 KHR/khrplatform.h
 -
 
-/home/celil/my_workspace/glfw_test/src/glad.c
+/home/celil/my_workspace/voronoi_glfw/src/glad.c
 stdio.h
 -
 stdlib.h
