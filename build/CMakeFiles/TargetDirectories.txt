@@ -1,3 +1,0 @@
-/home/celil/my_workspace/voronoi_glfw/build/CMakeFiles/rebuild_cache.dir
-/home/celil/my_workspace/voronoi_glfw/build/CMakeFiles/edit_cache.dir
-/home/celil/my_workspace/voronoi_glfw/build/CMakeFiles/opengl_test.dir
